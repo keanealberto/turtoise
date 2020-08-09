@@ -1,0 +1,11 @@
+/* CSS files add styling rules to your content*/
+body{
+    font-family: helvetica, arial, sans-serif;
+    margin: 0px;
+}
+
+.cover {
+    height: 400px;
+    background-image: url(assets/IMG-20191209-WA0013.jpg);
+    align-content: center no-repeat;
+}
